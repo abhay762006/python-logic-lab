@@ -148,26 +148,6 @@ Through this repository, I'm working on:
 
 ---
 
-# 🗺️ Learning Roadmap
-
-### 🟢 Level 1 — Fundamentals
-
-Variables → Conditions → Loops → Functions
-
-### 🟡 Level 2 — Data Structures
-
-Strings → Lists → Tuples → Sets → Dictionaries
-
-### 🟠 Level 3 — Problem Solving
-
-Patterns → Recursion → Searching → Sorting
-
-### 🔴 Level 4 — Algorithms & DSA
-
-Algorithms → Complexity → Data Structures → Advanced Problems
-
----
-
 # 🚀 Long-Term Goal
 
 This repository is part of my larger journey toward becoming a **Full Stack AI Developer**.
