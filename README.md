@@ -131,49 +131,6 @@ python-logic-lab/
 
 ---
 
-# 🔥 Problem-Solving Approach
-
-For each problem, I try to follow this process:
-
-```text
-Understand the Problem
-        ↓
-Identify the Inputs & Outputs
-        ↓
-Break the Problem Down
-        ↓
-Develop the Logic
-        ↓
-Write Pseudocode
-        ↓
-Implement in Python
-        ↓
-Test Different Cases
-        ↓
-Find Edge Cases
-        ↓
-Improve the Solution
-```
-
-The goal is to **understand the solution**, not simply copy one.
-
----
-
-# 🧪 Testing Mindset
-
-For every problem, I try to consider:
-
-* ✅ Normal inputs
-* ⚠️ Edge cases
-* ❌ Invalid inputs
-* 🔢 Large inputs
-* 🔄 Repeated values
-* 🧩 Empty values where applicable
-
-Testing different situations helps me understand how my logic actually behaves.
-
----
-
 # 📈 What I'm Improving
 
 Through this repository, I'm working on:
