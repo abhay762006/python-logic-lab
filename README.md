@@ -3,6 +3,8 @@
 <div align="center">
 
 ### 🐍 Strengthening Programming Logic, One Problem at a Time
+*Where Python meets logic, and every problem becomes a chance to think better.*
+
 
 **Think → Solve → Code → Test → Improve**
 
@@ -105,29 +107,7 @@ python-logic-lab/
 │   └── ...
 │
 └── README.md
-```
 
----
-
-# 📊 Progress
-
-| Category        | Problems Solved |
-| --------------- | --------------: |
-| 🟢 Basics       |               0 |
-| 🔄 Loops        |               0 |
-| 🔤 Strings      |               0 |
-| 📋 Lists        |               0 |
-| 📖 Dictionaries |               0 |
-| ⚙️ Functions    |               0 |
-| 🔁 Recursion    |               0 |
-| 🧩 Patterns     |               0 |
-| 🔎 Searching    |               0 |
-| 📊 Sorting      |               0 |
-| 🧠 Algorithms   |               0 |
-| 🚀 Advanced     |               0 |
-| **Total**       |           **0** |
-
-> 📌 This tracker will be updated as I solve more problems.
 
 ---
 
@@ -145,26 +125,6 @@ Through this repository, I'm working on:
 * Space complexity
 * Edge-case handling
 * Independent problem solving
-
----
-
-# 🗺️ Learning Roadmap
-
-### 🟢 Level 1 — Fundamentals
-
-Variables → Conditions → Loops → Functions
-
-### 🟡 Level 2 — Data Structures
-
-Strings → Lists → Tuples → Sets → Dictionaries
-
-### 🟠 Level 3 — Problem Solving
-
-Patterns → Recursion → Searching → Sorting
-
-### 🔴 Level 4 — Algorithms & DSA
-
-Algorithms → Complexity → Data Structures → Advanced Problems
 
 ---
 
