@@ -189,6 +189,6 @@ This repository is my dedicated practice ground for developing that skill.
 
 ### 🧠 Think Better. Code Better. Build Better.
 
-**One problem at a time. 🚀**
+
 
 </div>
