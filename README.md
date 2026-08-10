@@ -107,29 +107,7 @@ python-logic-lab/
 │   └── ...
 │
 └── README.md
-```
 
----
-
-# 📊 Progress
-
-| Category        | Problems Solved |
-| --------------- | --------------: |
-| 🟢 Basics       |               0 |
-| 🔄 Loops        |               0 |
-| 🔤 Strings      |               0 |
-| 📋 Lists        |               0 |
-| 📖 Dictionaries |               0 |
-| ⚙️ Functions    |               0 |
-| 🔁 Recursion    |               0 |
-| 🧩 Patterns     |               0 |
-| 🔎 Searching    |               0 |
-| 📊 Sorting      |               0 |
-| 🧠 Algorithms   |               0 |
-| 🚀 Advanced     |               0 |
-| **Total**       |           **0** |
-
-> 📌 This tracker will be updated as I solve more problems.
 
 ---
 
