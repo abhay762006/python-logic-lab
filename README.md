@@ -6,7 +6,7 @@
 *Where Python meets logic, and every problem becomes a chance to think better.*
 
 
-**Think → Solve → Code → Test → Improve**
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Problems](https://img.shields.io/badge/Problems-0%2B-orange?style=for-the-badge)
