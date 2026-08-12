@@ -6,11 +6,7 @@ A simple Python program that calculates the **factorial of a number**.
 
 The factorial of a positive integer `n` is the product of all positive integers from `1` to `n`.
 
-For example:
 
-```text
-5! = 5 × 4 × 3 × 2 × 1 = 120
-```
 
 ## 🚀 Features
 
