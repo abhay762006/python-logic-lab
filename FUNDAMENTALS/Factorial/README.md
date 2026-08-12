@@ -19,15 +19,6 @@ The factorial of a positive integer `n` is the product of all positive integers 
 
 * Python 🐍
 
-## ▶️ How to Run
-
-1. Make sure Python is installed.
-2. Clone or download this repository.
-3. Run the Python file:
-
-```bash
-python factorial.py
-```
 
 ## 📚 Learning Goal
 
