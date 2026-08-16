@@ -187,7 +187,7 @@ This repository is my dedicated practice ground for developing that skill.
 
 <div align="center">
 
-### 🧠 Think Better. Code Better. Build Better.
+
 
 
 
