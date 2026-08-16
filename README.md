@@ -3,7 +3,6 @@
 <div align="center">
 
 ### 🐍 Strengthening Programming Logic, One Problem at a Time
-*Where Python meets logic, and every problem becomes a chance to think better.*
 
 
 
