@@ -67,48 +67,6 @@ The goal is not just to write code that works, but to understand:
 
 # 📂 Repository Structure
 
-```text
-python-logic-lab/
-│
-├── 01-basics/
-│   ├── even-odd/
-│   ├── largest-number/
-│   ├── leap-year/
-│   └── calculator/
-│
-├── 02-loops/
-│   ├── factorial/
-│   ├── fibonacci/
-│   ├── prime-number/
-│   └── multiplication-table/
-│
-├── 03-strings/
-│   ├── palindrome/
-│   ├── reverse-string/
-│   ├── vowel-counter/
-│   └── anagram/
-│
-├── 04-lists/
-│   ├── find-duplicates/
-│   ├── second-largest/
-│   └── remove-duplicates/
-│
-├── 05-dictionaries/
-│   └── frequency-counter/
-│
-├── 06-functions/
-│   └── ...
-│
-├── 07-recursion/
-│   └── ...
-│
-├── 08-algorithms/
-│   └── ...
-│
-└── README.md
-
-
----
 
 # 📈 What I'm Improving
 
