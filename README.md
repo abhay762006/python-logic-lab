@@ -63,10 +63,6 @@ The goal is not just to write code that works, but to understand:
 | 🧠 Algorithms   | Algorithmic problem solving       |
 | 🚀 Advanced     | Challenging problems              |
 
----
-
-# 📂 Repository Structure
-
 
 # 📈 What I'm Improving
 
