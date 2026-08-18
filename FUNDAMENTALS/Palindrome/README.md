@@ -19,7 +19,7 @@ Examples
 
 💻 Concepts Used
 
-- "while" loop
+- "for" loop
 - Modulus "%"
 - Integer division "//"
 - Variables
